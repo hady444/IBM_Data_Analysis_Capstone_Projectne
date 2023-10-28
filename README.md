@@ -13,7 +13,7 @@ The project repository is structured as follows:
 ├── data
 │   └── sales_data.csv
 ├── notebooks
-│   ├── 01_data_exploration.ipynb
+│   ├── M1ExploreDataSet-lab-checkpoint.ipynb
 │   ├── 02_data_cleaning.ipynb
 │   ├── 03_data_analysis.ipynb
 │   └── 04_visualizations.ipynb
@@ -28,15 +28,15 @@ Usage
 To replicate the project and run the code locally, follow these steps:
 
 ## Clone the repository:
-git clone https://github.com/hady444/ibm-data-analyst-capstone.git
+git clone https://github.com/hady444/IBM_Data_Analyst.git
 Install the required dependencies. Make sure you have Python and the necessary libraries (e.g., Pandas, Matplotlib) installed.
 
 Open Jupyter Notebook and navigate to the notebooks directory.
 
 ## Execute the notebooks in the following order:
 
-01_data_exploration.ipynb: Perform initial data exploration and understanding.
-02_data_cleaning.ipynb: Clean and preprocess the dataset.
-03_data_analysis.ipynb: Conduct statistical analysis and derive insights from the data.
-04_visualizations.ipynb: Create visualizations to communicate the analysis results effectively.
-Refer to the final project report in the reports directory for a summary of the findings, conclusions, and recommendations.
+M1ExploreDataSet-lab-checkpoint.ipynb: Perform initial data exploration and understanding.
+M2DataWrangling-lab-checkpoint.ipynb: Clean and preprocess the dataset.
+M3ExploratoryDataAnalysis-lab-checkpoint.ipynb: Conduct statistical analysis and derive insights from the data.
+M4DataVisualization-lab-checkpoint.ipynb: Create visualizations to communicate the analysis results effectively.
+capstone-project.ppx : power point project report
