@@ -1,7 +1,7 @@
 # IBM Data Analyst Capstone Project
 This repository contains the code, data, and documentation for the IBM Data Analyst Capstone Project. The project focuses on analyzing and visualizing a dataset to gain insights and make data-driven recommendations.
 
-##Project Overview
+## Project Overview
 The goal of this capstone project is to apply the skills and knowledge gained throughout the IBM Data Analyst Professional Certificate program. The project involves working with a real-world dataset, performing exploratory data analysis, applying data cleaning techniques, conducting statistical analysis, and creating visualizations to communicate findings effectively.
 
 ## Dataset
@@ -9,7 +9,6 @@ The dataset used for this project is titled "Sales Performance Data" and is prov
 
 ## Project Structure
 The project repository is structured as follows:
-
 .
 ├── data
 │   └── sales_data.csv
