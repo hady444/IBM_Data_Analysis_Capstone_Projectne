@@ -7,26 +7,6 @@ The goal of this capstone project is to apply the skills and knowledge gained th
 ## Dataset
 The dataset used for this project is titled "Sales Performance Data" and is provided in the data directory. The dataset contains information about sales transactions, including customer demographics, sales revenue, product categories, and other relevant attributes.
 
-## Project Structure
-The project repository is structured as follows:
-.
-├── data
-│   └── sales_data.csv
-├── notebooks
-│   ├── M1ExploreDataSet-lab-checkpoint.ipynb
-│   ├── M2DataWrangling-lab-checkpoint.ipynb
-│   ├── M3ExploratoryDataAnalysis-lab-checkpoint.ipynb
-│   └── M4DataVisualization-lab-checkpoint.ipynb
-├── reports
-│   └── capstone-story-template.pptx
-└── README.md
-The data directory contains the dataset file sales_data.csv.
-The notebooks directory includes Jupyter Notebook files that demonstrate the step-by-step analysis and code implementation.
-The reports directory contains the final project report summarizing the findings and recommendations in PDF format.
-The README.md file provides an overview of the project, instructions, and information about the repository structure.
-Usage
-To replicate the project and run the code locally, follow these steps:
-
 ## Clone the repository:
 git clone https://github.com/hady444/IBM_Data_Analyst.git
 Install the required dependencies. Make sure you have Python and the necessary libraries (e.g., Pandas, Matplotlib) installed.
