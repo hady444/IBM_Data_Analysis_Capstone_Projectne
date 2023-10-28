@@ -28,7 +28,7 @@ Usage
 To replicate the project and run the code locally, follow these steps:
 
 ## Clone the repository:
-git clone https://github.com/your-username/ibm-data-analyst-capstone.git
+git clone https://github.com/hady444/ibm-data-analyst-capstone.git
 Install the required dependencies. Make sure you have Python and the necessary libraries (e.g., Pandas, Matplotlib) installed.
 
 Open Jupyter Notebook and navigate to the notebooks directory.
