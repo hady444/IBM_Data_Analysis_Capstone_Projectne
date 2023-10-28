@@ -14,11 +14,11 @@ The project repository is structured as follows:
 │   └── sales_data.csv
 ├── notebooks
 │   ├── M1ExploreDataSet-lab-checkpoint.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_data_analysis.ipynb
-│   └── 04_visualizations.ipynb
+│   ├── M2DataWrangling-lab-checkpoint.ipynb
+│   ├── M3ExploratoryDataAnalysis-lab-checkpoint.ipynb
+│   └── M4DataVisualization-lab-checkpoint.ipynb
 ├── reports
-│   └── final_report.pdf
+│   └── capstone-story-template.pptx
 └── README.md
 The data directory contains the dataset file sales_data.csv.
 The notebooks directory includes Jupyter Notebook files that demonstrate the step-by-step analysis and code implementation.
@@ -39,4 +39,5 @@ M1ExploreDataSet-lab-checkpoint.ipynb: Perform initial data exploration and unde
 M2DataWrangling-lab-checkpoint.ipynb: Clean and preprocess the dataset.
 M3ExploratoryDataAnalysis-lab-checkpoint.ipynb: Conduct statistical analysis and derive insights from the data.
 M4DataVisualization-lab-checkpoint.ipynb: Create visualizations to communicate the analysis results effectively.
-capstone-project.ppx : power point project report
+capstone-story-template.pptx : power point project report
+dashboard.pdf: Dashboard
